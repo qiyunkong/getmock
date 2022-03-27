@@ -1,13 +1,13 @@
 {
-  "name": "mock-api",
-  "version": "1.0.0",
-  "description": "",
+  "name": "get-mock",
+  "version": "0.0.1",
+  "description": "获取模拟数据",
   "main": "index.js",
   "scripts": {
     "dev": "node app"
   },
   "keywords": [],
-  "author": "",
+  "author": "yunkong",
   "license": "ISC",
   "dependencies": {
     "koa": "^2.13.4",
