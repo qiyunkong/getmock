@@ -12,15 +12,13 @@ GetMock 是一个轻量级生成随机数据  HTTP WebAPI接口工具。
 
 ## 版本说明
 
-最新版本：0.0.1
+最新版本：0.0.2
 
 ## 快速开始
 
 ```shell
-$ git clone 
-$ cd mock-api
-$ npm install
-$ npm run dev
+$ npm install getmock
+$ npx getmock
 ```
 
 ## 基本使用
