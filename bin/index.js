@@ -1,4 +1,4 @@
-#! /user/bin/env node
+#!/usr/bin/env node
 
 const Koa = require('koa')
 const Mock = require('mockjs')
@@ -63,5 +63,5 @@ app.use(async ctx => {
 
 
 app.listen(3000,getIpAddress(),()=>{
-  console.log(`MockAPI server on http://${getIpAddress()}:3000`)
+  console.log(`GetMock server on http://${getIpAddress()}:3000`)
 });
