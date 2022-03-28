@@ -1,3 +1,4 @@
+#! /user/bin/env node
 
 const Koa = require('koa')
 const Mock = require('mockjs')

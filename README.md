@@ -1,7 +1,6 @@
-<img src="./logo.png">
-<img src="https://img.shields.io/badge/language-nodejs-red.svg" alt=""><img src="https://img.shields.io/badge/license-MIT-000000.svg" alt >
 
-MockAPI 是一个轻量级生成随机数据  HTTP WebAPI接口工具。
+
+GetMock 是一个轻量级生成随机数据  HTTP WebAPI接口工具。
 不在苦等后端接口，快速实现人机交互效果。
 想要什么数据结构，就给什么数据结构。
 
@@ -54,13 +53,10 @@ axios(
 
 ## 参考写法
 普通获取
-<img src="./doc/1.png">
 延迟获取
-<img src="./doc/2.png">
 获取列表
-<img src="./doc/3.png">
 
-## 参考 文档
+## 参考文档
 
 [mock.js](http://mockjs.com/)
 
